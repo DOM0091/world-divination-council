@@ -1,1 +1,1 @@
-# -world-divination-council
+# world-divination-council
